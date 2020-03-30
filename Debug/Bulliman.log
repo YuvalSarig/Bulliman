@@ -1,0 +1,5 @@
+﻿  buildgame.cpp
+  game.cpp
+  Generating Code...
+C:\Users\yuval\Desktop\yuval\כיתה יג\תרגול C\Bulliman\Bulliman\game.cpp(6,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+  Bulliman.vcxproj -> C:\Users\yuval\Desktop\yuval\כיתה יג\תרגול C\Bulliman\Debug\Bulliman.exe
